@@ -20,10 +20,8 @@ The tables were the following
   
 They were created in order to get a allow for deeper exploration into each table feature. In order to use them I creaded an Amazon Web Services RDS instance and connected it to my PostgreSQL server. An example query after succesful linkage can be seen bellow.
 
-SQL_Query.png
+![SQL_Query](https://user-images.githubusercontent.com/107452167/194994113-7a3b8e89-a948-4ac1-ada1-db3525d569e3.png)
 
-https://github.com/Gjuarez9/Amazon_AWS_Analysis/blob/main/Resources/SQL_Query.png
-
-
+I then used PySpark to dive deeper into the review data
 
 ### Summary
